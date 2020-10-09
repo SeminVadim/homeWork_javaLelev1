@@ -1,0 +1,54 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Wed Oct 07 00:31:05 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:31:05 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:35:45 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:35:45 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:35:59 MSK 2020: User <u3> is come in chat
+Wed Oct 07 00:35:59 MSK 2020: Client < u3 > is left
+Wed Oct 07 00:42:00 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:42:00 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:47:12 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:47:12 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:47:59 MSK 2020: User <u3> is come in chat
+Wed Oct 07 00:47:59 MSK 2020: Client < u3 > is left
+Wed Oct 07 00:51:02 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:51:02 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:51:54 MSK 2020: User <u3> is come in chat
+Wed Oct 07 00:51:54 MSK 2020: Client < u3 > is left
+Wed Oct 07 00:52:19 MSK 2020: User <u3> is come in chat
+Wed Oct 07 00:52:19 MSK 2020: Client < u3 > is left
+Wed Oct 07 00:53:33 MSK 2020: User <u3> is come in chat
+Wed Oct 07 00:53:33 MSK 2020: Client < u3 > is left
+Wed Oct 07 00:54:19 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:54:19 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:56:31 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:56:32 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:57:43 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:57:43 MSK 2020: Client < u2 > is left
+Wed Oct 07 00:58:45 MSK 2020: User <u2> is come in chat
+Wed Oct 07 00:58:45 MSK 2020: Client < u2 > is left
+User <u2> is come in chat
+User <u3> is come in chat
+Incoming  message from Client< u3 >: hreee
+Incoming  message from Client< u2 >: gggg
+Wed Oct 07 01:03:49 MSK 2020: User <u2> is come in chat
+Wed Oct 07 01:03:56 MSK 2020: User <u3> is come in chat
+Wed Oct 07 01:04:01 MSK 2020: Incoming  message from Client< u3 >: qwertyuiop
+Wed Oct 07 01:04:07 MSK 2020: Incoming  message from Client< u2 >: zxcvbnm,./
+Wed Oct 07 01:05:19 MSK 2020: User <u2> is come in chat
+Wed Oct 07 01:05:26 MSK 2020: User <u3> is come in chat
+Wed Oct 07 01:05:36 MSK 2020: Incoming  message from Client< u3 >: j.khmgfbvf
+Wed Oct 07 01:05:40 MSK 2020: Incoming  message from Client< u2 >: :l/kljgf
+Wed Oct 07 01:07:38 MSK 2020: User <u2> is come in chat
+Wed Oct 07 01:07:55 MSK 2020: Incoming  message from Client< u2 >: lllll
+Wed Oct 07 01:08:01 MSK 2020: User <u3> is come in chat
+Wed Oct 07 01:08:23 MSK 2020: Incoming  message from Client< u3 >: hjkl;
